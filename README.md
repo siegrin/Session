@@ -1,1 +1,3 @@
-turu asw
+Shell 
+npm i
+languange nodejs
